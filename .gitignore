@@ -1,8 +1,0 @@
-Makefile
-*.o
-*.log
-moc_*
-tests/tests.xml
-tests/ut_profile
-doc/html
-src/lib
